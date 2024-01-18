@@ -9,7 +9,7 @@ Link to gh-pages:https://SkyStriker0164.github.io/a1-ghd3/index.html
 
 
 Screenshot
-![Alt text](1.png)
+![Alt text](1.png)(Sry I don't know why my screenshots only can be seen in a1-ghd3 branch, but it's not visible in main branch)
 
 Technical Achievement 
 To create a polygon, which can be various shape. It defined by a set of vertices so I need provide the coordinates of these vertices. And I want to insert image in this polygon, in SVG, we can insert images by using '<image>' tag and specifying the 'href' attribute to the desired URL. But SVG doesn't support the inserting image into polygon. So I use clipping paths to shape the image.
